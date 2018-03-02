@@ -1,0 +1,70 @@
+.home {
+    background-image: url("images/1.jpeg");
+}
+
+.survey{
+	 background-image: url("images/2.jpeg");
+}
+
+.jumbotron {
+
+    background: rgba(255, 255, 255, 0.0);
+}
+
+.display-3 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-weight: bold;
+}
+
+.lead {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+header {
+    height: 100px;
+}
+
+header>nav {
+    height: 100%;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+main h1 {
+    font-weight: bold;
+}
+
+main h2 {
+    font-weight: 300;
+}
+
+.form-group {
+    margin: 0;
+}
+
+h5 {
+    font-family: 'Poiret One', cursive;
+    font-family: 'Philosopher', sans-serif;
+    font-weight: bold;
+}
+
+h1, h3{
+    font-family: 'Poiret One', cursive;
+    font-weight: bolder;
+
+}
+
+.btn-submit{
+	border-radius: 20px;
+}
+
+a{
+	color: red;
+}
